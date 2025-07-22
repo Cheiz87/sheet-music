@@ -65,7 +65,7 @@ melody = \relative c''' {
 
   f4.~ f8 g f e4.~ e8 ais, b |
   f' ais, b e4. r r8 b' b |
-  b4. b8 b4 a4.~ a8 e e |
+  b4. b4 b8 a4.~ a8 e e |
   b' gis a c4.~ c4.~ c4 c8 |
 
   b d, b' a4 g8~ g4. r |
